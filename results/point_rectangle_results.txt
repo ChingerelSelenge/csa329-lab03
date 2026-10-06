@@ -1,0 +1,26 @@
+P1: (0.639427, 0.025011)
+P2: (0.275029, 0.223211)
+P3: (0.736471, 0.676699)
+P4: (0.892180, 0.086939)
+R1: x=[0.029797, 0.421922], y=[0.218638, 0.505355]
+R2: x=[0.026536, 0.198838], y=[0.544941, 0.649884]
+R3: x=[0.220441, 0.589266], y=[0.006499, 0.809430]
+R4: x=[0.698139, 0.805819], y=[0.155479, 0.340251]
+
+Шалгалтын үр дүн:
+P1 in R1: False
+P1 in R2: False
+P1 in R3: False
+P1 in R4: False
+P2 in R1: True
+P2 in R2: False
+P2 in R3: True
+P2 in R4: False
+P3 in R1: False
+P3 in R2: False
+P3 in R3: False
+P3 in R4: False
+P4 in R1: False
+P4 in R2: False
+P4 in R3: False
+P4 in R4: False
